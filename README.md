@@ -1,7 +1,10 @@
 # Monster Rolodex
-https://
+https://krenbot.github.io/monster-rolodex/
 
 ## Description
+Based on a [tutorial](https://github.com/ZhangMYihua/monsters-rolodex-complete) from [ZhangMYihua](https://github.com/ZhangMYihua) for the Complete React Developer course from Udemy.
+
+This simple app serves as a basis and refresher for intermediate React concepts. From compartmentalizing components to source control, this particular project serves/ed as a precursor to a capstone project.
 
 ## Table of Contents
   1) [Technologies](#technologies-used)
@@ -16,16 +19,19 @@ https://
 * [react](https://reactjs.org/) - Javascript library for building UI's
 
 ## Challenges
-* 
+* Learning to bundle individual CSS files in the component folders.
+* Source control. Breaking the personal habit of always pushing to main instead of testing new features in dev.
 
 ## Future Implementation
-*
+* More custom monsters
+* Phone-book style searchings
+* App layout improvements
 
 ## User Story
 ```md
-AS AN
-I WANT
-SO THAT
+AS A monster enthusiast
+I WANT to be able to search monsters dynamically by name
+SO THAT I can find particular monsters more easily.
 ```
 
 ## Installation
