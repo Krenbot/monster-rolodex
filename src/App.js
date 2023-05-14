@@ -21,7 +21,7 @@ const App = () => {
       return monster.name.toLowerCase().includes(searchField)
     });
     setFilteredMonsters(newFilteredMonsters)
-  }, [])
+  }, [monsters, searchField])
 
   const onSearchChange = (event) => {
     const searchFieldString = event.target.value.toLowerCase()
