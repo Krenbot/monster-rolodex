@@ -12,11 +12,12 @@ This simple app serves as a basis and refresher for intermediate React concepts.
   3) [Future Implementations](#future-implementations)
   4) [User Story](#user-story)
   5) [Installation](#installation)
-  6) [License](#license)
+  6) [Credits](#credits)
+  7) [License](#license)
 
 ## Technologies
-* [nodejs](https://nodejs.org/en/) - to run the server in the terminal
-* [react](https://reactjs.org/) - Javascript library for building UI's
+* [React](https://react.dev/) - Front-end library.
+* [TypeScript](https://www.typescriptlang.org/) - Compiler
 
 ## Challenges
 * Learning to bundle individual CSS files in the component folders.
@@ -38,6 +39,9 @@ SO THAT I can find particular monsters more easily.
 * Clone directory to code editor of choice
 * Use `$npm run start` script to watch changes while working
 * Use `$npm run build` to build the webpack
+
+## Credits
+* Project came from a tutorial by [Zero-To-Mastery](https://zerotomastery.io/)'s [Complete React Developer](https://zerotomastery.io/courses/learn-react/) course. <br>Thanks, [Yihua](https://github.com/ZhangMYihua).
 
 ## License
 MIT © Krenbot
